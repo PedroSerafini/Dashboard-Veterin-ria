@@ -30,7 +30,7 @@ Isso iniciará o aplicativo Streamlit e abrirá uma nova guia no navegador com o
 
 - Adaptação de gráficos: Adicione ou modifique gráficos conforme necessário no arquivo app.py usando a biblioteca Plotly Express.
 
-#Estrutura do Projeto
+# Estrutura do Projeto
 
 - app.py: Arquivo principal que contém o código do aplicativo Streamlit.
 
