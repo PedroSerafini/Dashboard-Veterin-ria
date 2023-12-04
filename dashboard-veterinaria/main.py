@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-file_path = 'BancodeDadosA3_20231122152427.csv.csv'
+file_path = 'BancodeDadosA3_20231122152427.csv'
 df = pd.read_csv(file_path, thousands=',')
 
 st.title('Dashboard de Diagnóstico Médico')
